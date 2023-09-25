@@ -1,2 +1,4 @@
 # hyperblog
 Blog con el fin de realizar el curso de platzi de git y github.
+
+* Creado por mi
